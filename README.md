@@ -29,7 +29,7 @@ p=t
 print("Swapped values are:",p,r)
 ```
 ##OUTPUT
-![output](/![Screenshot from 2022-09-19 08-18-38](https://user-images.githubusercontent.com/113497340/190942411-53b9aba4-805c-4dd7-9979-7106992f72de.png)
+(/![Screenshot from 2022-09-19 08-18-38](https://user-images.githubusercontent.com/113497340/190942411-53b9aba4-805c-4dd7-9979-7106992f72de.png)
 
 
 
